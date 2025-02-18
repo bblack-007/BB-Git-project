@@ -1,10 +1,12 @@
-# ND256 - Data Structures and Algorithms
-
-Welcome to the official repository for the **ND256 - Data Structures and Algorithms** course from Udacity. This repository contains all the project materials, starter code, and resources you need to successfully complete the course and master data structures and algorithms.
+# GitHub Project - Brian Black
+This project is in support of the Udacity course for Version Control using Git.
 
 ## Overview
 
-The **Data Structures and Algorithms** course is designed to help you build a solid foundation in algorithms and data structures. Throughout this course, you will learn how to implement and apply various data structures and algorithms to solve complex problems efficiently.
+The project has several parts including -
+1. Setting up a repository and close locally
+2. Add the Python code from prior course -- bikeshare.py.  Add a data file and `.gitignore` file.
+3. Create branches to include updates to `documentation', specifically docstrings in the `bikeshare.py`
 
 ## Repository Structure
 
