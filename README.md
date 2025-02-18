@@ -5,8 +5,10 @@ This project is in support of the Udacity course for Version Control using Git.
 
 The project has several parts including -
 1. Setting up a repository and close locally
-2. Add the Python code from prior course -- bikeshare.py.  Add a data file and `.gitignore` file.
-3. Create branches to include updates to `documentation', specifically docstrings in the `bikeshare.py`
+2. Add the Python code from prior course -- bikeshare.py.  Add a data file and `.gitignore` file
+3. Create branches to include updates to `documentation`, specifically docstrings in the `bikeshare.py`
+4. Another branch will be created in order for `refactoring` of the Python code
+5. Finally both branches will be merged into the `master` and this will be pushed back to the remote repository
 
 ## Repository Structure
 
