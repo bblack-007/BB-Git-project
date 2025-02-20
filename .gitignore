@@ -1,8 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,vim,visualstudiocode,visualstudio,eclipse,pycharm,emacs,python,git,jupyternotebooks,dotenv,xcode
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,vim,visualstudiocode,visualstudio,eclipse,pycharm,emacs,python,git,jupyternotebooks,dotenv,xcode
-
-### dotenv ###
-.env
+### Test file of bikeshare data for city of Chicago ###
+chicago.csv
 
 ### Eclipse ###
 .metadata
